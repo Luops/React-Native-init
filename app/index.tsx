@@ -7,6 +7,7 @@ import {
   Text,
   ScrollView,
 } from "react-native";
+import { Stack } from "expo-router";
 
 // Components
 import { Header } from "@/components/header/Header";
